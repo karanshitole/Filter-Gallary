@@ -1,0 +1,24 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+:root{
+	--primary-color: #373b69;
+	
+}
+body{
+	background-color: var(--primary-color);
+}
+.all > div {
+	border: 1px solid #ededed;
+	height: 235px;
+	margin-top: 20px;
+} 
+
+img{
+    background-position: center;
+	width: 100%;
+}
+
+
